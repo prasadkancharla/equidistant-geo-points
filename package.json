@@ -12,6 +12,6 @@
     "@googlemaps/google-maps-services-js": "^2.1.2",
     "@mapbox/polyline": "^1.1.0",
     "geodist": "^0.2.1",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
